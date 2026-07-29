@@ -10,13 +10,13 @@
 
 # 💫 About Me:
 
-Привет, я **Arlekin** 🃏, специализируюсь, или пытаюсь, в сфере **кибербезопасности** 🔒, **системного администрирования** 🖥️ и **домашних лабораторий** 🏠
+Привет, я **Arlekin** 🃏, специализируюсь, или пытаюсь, в сфере **кибербезопасности** , **системного администрирования** 🖥️ и **домашних лабораторий** 
 
-В основе своей, пишу скрипты для **Linux** 🐧, чтобы облегчить повседневную рутину. Чаще всего на **C++** ⚙️, но иногда и на **Python** 🐍
+В основе своей, пишу скрипты для **Linux** 🐧, чтобы облегчить повседневную рутину. Чаще всего на **C++** , но иногда и на **Python** 
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -34,7 +34,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=arlekin17&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=arlekin17&theme=blue-green&hide_border=false)<br/>
@@ -42,7 +42,7 @@
 
 ---
 
-# 🐍 Мой GitHub вклад:
+#  Мой GitHub вклад:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ithear-bit/ithear-bit/output/github-snake-dark.svg">
@@ -56,7 +56,6 @@
   
 [![](https://komarev.com/ghpvc/?username=arlekin17&icon=4&color=3)](https://visitcount.itsvg.in)
 
-**🐧 "Автоматизация — это искусство делать меньше, достигая большего"** 🎭
 
 </div>
 
